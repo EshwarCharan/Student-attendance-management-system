@@ -1,8 +1,12 @@
 # STUDENT ATTENDANCE MANAGEMENT SYSTEM 
+![student attendace mangement](https://github.com/user-attachments/assets/78ff0246-bbba-4177-bc17-1c39f4dff17b)
+
+### Introduction
 
 •	This project aims to develop an online attendance management system that automates the process of recording and tracking attendance for educational institutions or organizations. The system utilizes modern web technologies to provide a user-friendly interface for instructors/administrators to easily manage attendance-related tasks. 
 
 
+### Screenshots of the Applications 
 
 <img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
 <img src="https://github.com/user-attachments/assets/b82aef3a-8d29-4a77-8209-29febba11569" alt="add student" width="200">
@@ -17,11 +21,7 @@
 
 ### Quick view code
 
-> **_*_** [Click here](https://github.com/jaikeerthick/Easy-Attendance-App/tree/main/app/src/main/java/com/ajstudios/easyattendance)- to directly navigate to the directory containing java files
-
-### Introduction
-
-This app simplifies the process of taking attendance in classroom. It has a very clean and elegant UI which is teacher-friendly. 
+> **_*_** [Click here](https://github.com/jaikeerthick/Easy-Attendance-App/tree/main/app/src/main/java/com/ajstudios/easyattendance)- to directly navigate to the directory containing java files 
 
 ### How to install student attendance management application?
 Installing this app is very simple:
