@@ -1,5 +1,6 @@
 # STUDENT ATTENDANCE MANAGEMENT SYSTEM 
-![student attendace mangement](https://github.com/user-attachments/assets/78ff0246-bbba-4177-bc17-1c39f4dff17b)
+<img src="https://github.com/user-attachments/assets/78ff0246-bbba-4177-bc17-1c39f4dff17b" alt="student attendace mangement" width="300">
+
 
 ### Introduction
 
