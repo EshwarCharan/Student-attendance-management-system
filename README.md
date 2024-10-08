@@ -1,6 +1,6 @@
-# Easy-Attendance-App (Deprecated)
+# STUDENT ATTENDANCE MANAGEMENT SYSTEM (Deprecated)
 An Android app which uses Realm database to make attendance process simple inside classroom
-<img src="https://1.bp.blogspot.com/-3DB20TFYMtY/X5a53iGR__I/AAAAAAAAKho/Yeq8fcoM3Os4RFa8ml9oNv_ITbbyGk4RgCLcBGAsYHQ/s1280/Untitled-12.jpg">
+
 
 
 <img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
@@ -22,11 +22,12 @@ An Android app which uses Realm database to make attendance process simple insid
 
 This app simplifies the process of taking attendance in classroom. It has a very clean and elegant UI which is teacher-friendly. 
 
-### How to install?
+### How to install student attendance management application?
 Installing this app is very simple:
 * Open Android Studio
 * Create a new project
 * Just clone this repository and run the project in your android device
+  
 
 ### How to use the app?
 * Create a Class with Class name, subject name and a theme
