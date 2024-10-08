@@ -12,6 +12,17 @@ An Android app which uses Realm database to make attendance process simple insid
 ![signup](https://github.com/user-attachments/assets/0042d689-8823-498c-a32d-e917b37995e1)
 ![WhatsApp Image 2024-03-21 at 10 11 05_512ae6c6](https://github.com/user-attachments/assets/38cce5ec-756c-4e09-9a66-026eb454786d)
 
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+<img src="https://github.com/user-attachments/assets/154c15aa-5749-4df1-ab1f-60b08b7afd90" alt="add class" width="200">
+
 ### Quick view code
 
 > **_*_** [Click here](https://github.com/jaikeerthick/Easy-Attendance-App/tree/main/app/src/main/java/com/ajstudios/easyattendance)- to directly navigate to the directory containing java files
