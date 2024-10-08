@@ -1,5 +1,6 @@
-# STUDENT ATTENDANCE MANAGEMENT SYSTEM (Deprecated)
-An Android app which uses Realm database to make attendance process simple inside classroom
+# STUDENT ATTENDANCE MANAGEMENT SYSTEM 
+
+•	This project aims to develop an online attendance management system that automates the process of recording and tracking attendance for educational institutions or organizations. The system utilizes modern web technologies to provide a user-friendly interface for instructors/administrators to easily manage attendance-related tasks. 
 
 
 
